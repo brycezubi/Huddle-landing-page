@@ -23,9 +23,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the QR Component coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the QR Component coding challenge](https://github.com/brycezubi/Huddle-landing-page/blob/main/design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [QR Component Solution](https://www.frontendmentor.io/solutions/qr-code-component-1WihnUSKDE)
-- Live Site URL: [QR Component](https://brycezubi.github.io/qr-component/)
+- Solution URL: [Huddle Single Section](https://www.frontendmentor.io/solutions/huddle-landing-page--mN3OneRg8)
+- Live Site URL: [Huddle Landing Page](https://brycezubi.github.io/Huddle-landing-page/)
